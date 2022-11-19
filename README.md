@@ -1,22 +1,22 @@
-# 2022-2 PUMA - Plataforma Unificada de Metodologias Ativas
+# PUMA - Plataforma Unificada de Metodologias Ativas
 
 Repositório para documentação do projeto PUMA, desenvolvido pelos membros das disciplinas Metódos de Desenvolvimento de Software (MDS) e Engenharia do Produto de Software (EPS).
 
 ## Repositórios de Implementação
 
-[Deploy](https://github.com/fga-eps-mds/2021-2-PUMA-Deploy)
+[Deploy](https://github.com/fga-eps-mds/2022-2-PUMA-Deploy)
 
-[Front-end](https://github.com/fga-eps-mds/2021-2-PUMA-Frontend)
+[Front-end](https://github.com/fga-eps-mds/2022-2-PUMA-Frontend)
 
-[Api Gateway](https://github.com/fga-eps-mds/2021-2-PUMA-ApiGateway)
+[Api Gateway](https://github.com/fga-eps-mds/2022-2-PUMA-ApiGateway)
 
-[User Service](https://github.com/fga-eps-mds/2021-2-PUMA-UserService)
+[User Service](https://github.com/fga-eps-mds/2022-2-PUMA-UserService)
 
-[Project Service](https://github.com/fga-eps-mds/2021-2-PUMA-ProjectService)
+[Project Service](https://github.com/fga-eps-mds/2022-2-PUMA-ProjectService)
 
-[Alocate Service](https://github.com/fga-eps-mds/2021-2-PUMA-AlocateService)
+[Alocate Service](https://github.com/fga-eps-mds/2022-2-PUMA-AlocateService)
 
-[Notify Service](https://github.com/fga-eps-mds/2021-2-PUMA-NotifyService)
+[Notify Service](https://github.com/fga-eps-mds/2022-2-PUMA-NotifyService)
 
 ## Time
 
