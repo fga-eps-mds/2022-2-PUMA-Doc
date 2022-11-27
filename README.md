@@ -71,9 +71,9 @@ mkdocs serve
 
 1. Crie uma pasta para armazenar os repositórios do projeto.
 
-2. Insira os [scripts](https://drive.google.com/drive/folders/11_sBJonAoB_wbzEFLuyG1D0dMOTSvECL?usp=sharing) dentro da pasta criada.
+2. Insira os [scripts](https://drive.google.com/drive/folders/1wRGu2UhdBWqF0a4_mn06Sy9zpkr5nD4J?usp=sharing) dentro da pasta criada.
 
-3. Insira a [pasta envs](https://drive.google.com/drive/folders/1bCZ2RPNPU7U_vFwq6A_C2P2FjUKI3q92?usp=sharing) dentro da pasta criada.
+3. Insira a [pasta envs](https://drive.google.com/drive/folders/1646i9WbxI-bXx9_VfGPFR_2DCDmmwVe2?usp=sharing) dentro da pasta criada.
 
 4. Recupere o IP da sua máquina(ifconfig) e insira nas variáveis de IP dos .envs que estão dentro da pasta envs.
 
