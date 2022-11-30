@@ -1,6 +1,7 @@
+# Visão de Produto 
+
 <style>body {text-align: justify}</style>
 
-# Visão de Produto 
 ## Lean Inception
 A Lean Inception, desenvolvida por Paulo Caroli, é uma técnica para o alinhamento de uma equipe com relação à construção de um [MVP](#mvp) (Minimum Viable Product – ou Produto Mínimo Viável, em portugês). Esta técnica promove um workshop composto por [9 etapas](#etapas) que facilitam o entendimento das necessidades de um produto de sucesso (CAROLI, 2018).  
 Neste projeto, a Lean Inception foi [aplicada](#execucao) a fim de alinhar os membros do time, em um curto intervalo de tempo, com relação ao produto que está sendo desenvolvido. 
@@ -15,52 +16,36 @@ Entretanto, um MVP não é sinônimo de um produto ruim ou que não irá evoluir
 ### Etapas
 #### Visão do produto
 Nesta atividade, os membros da equipe definem a visão do produto de forma colaborativa. Desta forma, é possível trilhar um caminho inicial, decidindo qual será a estratégia de posicionamento do produto.
-##### Execução
-* Data: 
-* Resultado: 
+##### Resultado 
 
 #### O produto É - NÃO É - FAZ - NÃO FAZ 
 Esta etapa classifica o produto de acordo com as diretrizes É, Não É, Faz e Não Faz. Assim, a equipe obtem uma visão mais clara do produto, do que ele faz e do que ele não faz. 
-##### Execução
-* Data: 
-* Resultado: 
+##### Resultado 
 
 #### Esclarecendo o objetivo
 O resultado esperado desta etapa é o levantamento dos objetivos compreendidos pelo negócio. Desta forma, a equipe pode compreender qual o foco do projeto.  
-##### Execução
-* Data: 
-* Resultado: 
+##### Resultado 
 
 #### Personas
 Nesta atividade, busca-se compreender os usuários do produto e seus objetivos através da contrução de personas. Tais personas proporcionam uma visão do produto por meio de representações realistas de usuários. 
-##### Execução
-* Data: 
-* Resultado: 
+##### Resultado 
 
 #### Jornadas do Usuário
 Esta etapa tem como objetivo traçar um perscurso de um usuário para o alcance de um objetivo específico. Na jornada, é descrito o contato de uma [persona](#personas) com o produto em questão, definindo a sua interação. Nesta atividade, várias jornadas podem ser encontradas e priorizadas, definindo o que estará presente no MVP.
-##### Execução
-* Data: 
-* Resultado: 
+##### Resultado 
 
 
 #### Brainstorming de Funcionalidades
 Através dos [objetivos](#esclarecendo-o-objetivo) e [personas](#personas) definidas, listam-se as funcionalidades que o produto precisa ter para atender as necessidades dos usuários. Estas funcionalidades precisam ser descritas da forma mais simples possível, focando na combinação persona + objetivo. 
-##### Execução
-* Data: 
-* Resultado: 
+##### Resultado 
 
 #### Revisão Técnica, de Negócio e de UX
 Com o conjunto de funcionalidades levantados através do [brainstorming](#brainstorming-de-funcionalidades), a equipe realiza uma avaliação levando em conta o esforço, o valor e a experiência de usuário de cada uma delas. Esta avaliação tem como objetivo normalizar o que foi levantado e descartar o que não está coerente com o projeto. 
-##### Execução
-* Data: 
-* Resultado: 
+##### Resultado 
 
 #### Sequenciador
 De suma importância para a definção do MVP, esta etapa auxilia na priorização da implementação das funcionalidades propostas. Tendo em vista as [personas](#personas) e as [jornadas de usuário](#jornadas-do-usuario) mais relevantes, é possível definir quais funcionalidades precisam ser mais rapidamente implementadas. Para isso, conta-se também com os parâmetros estabelecidos na [etapa anterior](#revisao-tecnica-de-negocio-e-de-ux). 
-##### Execução
-* Data: 
-* Resultado: 
+##### Resultado 
 
 #### MVP Canvas
 Por fim, esta etapa detalha o MVP e suas funcionalidades. Os blocos essenciais pra este produto são aglomerados em um só lugar, sendo estes:  
@@ -74,9 +59,7 @@ Por fim, esta etapa detalha o MVP e suas funcionalidades. Os blocos essenciais p
 * Custo & Cronograma
 
 Esta atividade sintetiza tudo aquilo que foi produzido anteriormente durante a Lean Inception. A equipe pode enfim visualizar a proposta do MVP, que deve validar uma necessidade que abrange as personas e a hipótese levantada para o negócio. 
-##### Execução
-* Data: 
-* Resultado: 
+##### Resultado 
 
 ## Referências Biblográficas
 CAROLI, P. **Lean Inception: como alinhar pessoas e construir o produto certo**. 1a. ed. São Paulo: Editora Caroli, 2018. 
