@@ -24,7 +24,7 @@ Estrutura do Documento:
 
 | Sigla | Significado                                                                |
 | :---  | :------------------------------------------------------------------------  | 
-| PUMA	| PUMA - Plataforma Unificada de Metodologias Ativas                         |
+| PUMA	| Plataforma Unificada de Metodologias Ativas                         |
 | HTML	| Hypertext Markup Language (Linguagem de Marcação de Hipertexto)            |
 | HTTP  | Hypertext Transfer Protocol (Protocolo de Transferência de Hipertexto)     |
 | SQL   | Structured Query Language (Linguagem de Consulta Estruturada)              |
@@ -34,10 +34,18 @@ Estrutura do Documento:
 
 ### Visão Geral da Arquitetura
 
-### Escopo de Arquitetura do Semestre
+A Figura 1 apresenta a visão geral da arquitetura do projeto, representando todos os microsserviços existentes e suas relações.
+
+![Arquitetura](/assets/diagrama_arquitetura.png)
+
+<center>
+<figcaption>
+Figura 1 - Diagrama de Visão Geral da Arquitetura
+</figcaption>
+</center>
+
 
 ## Serviços
-
 
 ### Front End
 
@@ -86,6 +94,8 @@ O Docker Compose é uma ferramenta para definir e executar aplicativos Docker de
 
 ## Visão de Dados
 
+A atual modelagem dos dados  é uma continuação das modelagens elaboradas nos semestres anteriores.
+
 ## Referências
 
 About Node.js. **Node JS**. Disponível [aqui](https://nodejs.org/en/about/). Acesso em: 30 nov. 2022.
@@ -104,3 +114,4 @@ Introduction. **Vue.js Guide**. Disponível [aqui](https://vuejs.org/guide/intro
 | :--------- | :----- | :---------- | :---- |
 | 30/11/2022 | 0.1    | Criação, estruturação do documento e introdução. | Hérya    |
 | 05/12/2022 | 0.2    | Adição de visão geral, definições, serviços e referências. | Hérya  |
+| 06/12/2022 | 0.3    | Adição de diagrama de arquitetura. | Hérya  |
