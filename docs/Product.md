@@ -81,3 +81,9 @@ Esta atividade sintetiza tudo aquilo que foi produzido anteriormente durante a L
 CAROLI, P. **Lean Inception: como alinhar pessoas e construir o produto certo**. 1a. ed. São Paulo: Editora Caroli, 2018. 
 
 ZANETTE, F. **MVP: como usar esse conceito para validar uma ideia e crescer com o feedback do mercado.** Disponível em: <https://resultadosdigitais.com.br/marketing/mvp-minimo-produto-viavel/>. 
+
+## Histórico de Revisão
+| Data       | Versão | Modificação | Autor |
+| :--------- | :----- | :---------- | :---- |
+| 27/11/2022 | 0.1    | Criação, estruturação do documento e adição do conteúdo | Giovana |
+| 06/12/2022 | 0.2    | Adição dos resultados | Giovana |
