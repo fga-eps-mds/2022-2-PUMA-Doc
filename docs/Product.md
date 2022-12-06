@@ -42,7 +42,7 @@ Nesta atividade, busca-se compreender os usuários do produto e seus objetivos a
 #### Jornadas do Usuário
 Esta etapa tem como objetivo traçar um perscurso de um usuário para o alcance de um objetivo específico. Na jornada, é descrito o contato de uma [persona](#personas) com o produto em questão, definindo a sua interação. Nesta atividade, várias jornadas podem ser encontradas e priorizadas, definindo o que estará presente no MVP.
 ##### Resultado 
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FUoMrW48HXi95MsQusizjuz%2FJornada-base-de-usu%25C3%25A1rios---PUMA-(Copy)%3Fnode-id%3D0%253A1%26t%3Da99Aye13ltRIcDsH-1" allowfullscreen></iframe>
 
 #### Brainstorming de Funcionalidades
 Através dos [objetivos](#esclarecendo-o-objetivo) e [personas](#personas) definidas, listam-se as funcionalidades que o produto precisa ter para atender as necessidades dos usuários. Estas funcionalidades precisam ser descritas da forma mais simples possível, focando na combinação persona + objetivo. 
