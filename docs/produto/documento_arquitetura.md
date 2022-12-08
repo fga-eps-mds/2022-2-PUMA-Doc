@@ -36,7 +36,7 @@ Estrutura do Documento:
 
 A Figura 1 apresenta a visão geral da arquitetura do projeto, representando todos os microsserviços existentes e suas relações.
 
-![Arquitetura](/assets/diagrama_arquitetura.png)
+![Arquitetura](../assets/diagrama_arquitetura.png)
 
 <center>
 <figcaption>
@@ -53,7 +53,7 @@ O [Front End](https://github.com/fga-eps-mds/2022-2-PUMA-Frontend) é a Interfac
 
 ### API Gateway
 
-O [API Gateway](https://github.com/fga-eps-mds/2022-2-PUMA-ApiGateway) é utilizado como um _mutex_ para a comunicação entre a interface de usuário e os outros micro-serviços. Dessa forma, ao receber uma requisição o gateway atua como uma ponte entre o front end e o serviço desejado. Atualmente, esse serviço é responsável por fazer o tratamento das requisições entre os microsserviços ProjectService e UserService.
+O [API Gateway](https://github.com/fga-eps-mds/2022-2-PUMA-ApiGateway) é utilizado como um _mutex_ para a comunicação entre a interface de usuário e os outros micro-serviços. Dessa forma, ao receber uma requisição o gateway atua como uma ponte entre o front end e o serviço desejado. Atualmente, esse serviço é responsável por fazer o tratamento das requisições entre os microsserviços Project-Service e User-Service.
 
 ### Project-Service
 
