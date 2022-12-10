@@ -61,7 +61,7 @@ O serviço [Project-Service](https://github.com/fga-eps-mds/2022-2-PUMA-ProjectS
 
 ### User-Service
 
-O  [User-Service](https://github.com/fga-eps-mds/2022-2-PUMA-UserService) é responsável manter o controle de usuários, desde sua criação até o controle das rotas de acesso permitidas, criação de times dentre outros. Esse serviço é responsável por lidar com todas as operações que envolvem usuários no projeto Puma. 
+O  [User-Service](https://github.com/fga-eps-mds/2022-2-PUMA-UserService) é responsável por manter o controle de usuários, desde sua criação até o controle das rotas de acesso permitidas, criação de times dentre outros. Esse serviço é responsável por lidar com todas as operações que envolvem usuários no projeto Puma. 
 
 ### Notify-Service
 
@@ -94,7 +94,7 @@ O Docker Compose é uma ferramenta para definir e executar aplicativos Docker de
 
 ## Visão de Dados
 
-A atual modelagem dos dados  é uma continuação das modelagens elaboradas nos semestres anteriores.
+A atual modelagem dos dados  é uma continuação das modelagens elaboradas nos [semestres anteriores](https://fga-eps-mds.github.io/2022-1-PUMA-Doc/produto/doc_arquitetura/) e poderá sofrer alterações ao longo do atual desenvolvimento.
 
 ## Referências
 
