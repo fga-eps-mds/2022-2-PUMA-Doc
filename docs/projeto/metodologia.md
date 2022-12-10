@@ -15,13 +15,13 @@ Dentre os componentes do *framework*,  a equipe utilizará os conceitos de *Spri
 
 #### Sprint
 
-A *sprint* é  a unidade básica de desenvolvimento do *Scrum*,  a qual consiste em um período curto de duração fixa para possibilitar a  entrega de um incremento do produto. Uma sprint deve começar imediatamente após a conclusão da anterior.
+A *sprint* é  a unidade básica de desenvolvimento do *Scrum*,  a qual consiste em um período curto de duração fixa para possibilitar a  entrega de um incremento do produto. Uma *sprint* deve começar imediatamente após a conclusão da anterior.
 
-Durante uma *sprint*, não deve ser feita nenhuma alteração que coloque em risco as metas da sprint, a qualidade não deve diminuir, o backlog do produto pode ser refinado conforme necessário e o escopo pode ser esclarecido e renegociado à medida que se aprende mais.
+Durante uma *sprint*, não deve ser feita nenhuma alteração que coloque em risco suas metas, a qualidade não deve diminuir, o *backlog* do produto pode ser refinado conforme necessário e o escopo pode ser esclarecido e renegociado à medida que se aprende mais.
 
 Dentro de uma *sprint*, a equipe realizará os eventos *Sprint Planning, Daily Scrum e Sprint Review*.
 
-A *Sprint Planning* inicia e estabelece o trabalho a ser executado na Sprint a partir de um plano de trabalho colaborativo criado pela equipe *Scrum*.
+A *Sprint Planning* inicia e estabelece o trabalho a ser executado na *Sprint* a partir de um plano de trabalho colaborativo criado pela equipe *Scrum*.
 
 O objetivo da *Daily Scrum* é inspecionar o progresso da *Sprint* e adaptar o *Backlog* da *Sprint* conforme necessário, ajustando os próximos trabalhos a serem planejados e executados.
 
@@ -31,7 +31,7 @@ Durante o desenvolvimento do projeto, a equipe adotará os conceitos e component
 
 #### Scrum Team 
 
-A unidade fundamental do *Scrum* é um pequeno time de pessoas, o *Scrum Team*. O *Scrum Team* consiste em um *Scrum Master*, um *Product Owner* e os Desenvolvedores. Apesar dos diferentes papéis, não há subequipes ou hierarquias.
+A unidade fundamental do *Scrum* é um pequeno time de pessoas, o *Scrum Team*. O *Scrum Team* consiste em um *Scrum Master*, um *Product Owner* e os Desenvolvedores. Apesar dos diferentes papéis, não há hierarquias.
 
 O *Scrum Master* é responsável por garantir que o *Scrum Team* esteja aderindo aos valores, práticas e regras do *Scrum*.
 
@@ -42,11 +42,21 @@ Já os Desenvolvedores transformam o *Product Backlog* em incrementos de funcion
 
 ### Lean Inception
 
-A Lean Inception, desenvolvida por Paulo Caroli, é uma técnica para o alinhamento de uma equipe com relação à construção de um MVP (Minimum Viable Product – ou Produto Mínimo Viável, em portugês). Esta técnica promove um workshop composto por 9 etapas que facilitam o entendimento das necessidades de um produto de sucesso.
+A *Lean Inception*, desenvolvida por Paulo Caroli, é uma técnica para o alinhamento de uma equipe com relação à construção de um MVP (*Minimum Viable Product* – ou Produto Mínimo Viável, em portugês). Esta técnica promove um workshop composto por 9 etapas que facilitam o entendimento das necessidades de um produto de sucesso.
 
-Neste projeto, a Lean Inception foi aplicada a fim de alinhar os membros do time, em um curto intervalo de tempo, com relação ao produto que está sendo desenvolvido.
+Neste projeto, a *Lean Inception* foi aplicada a fim de alinhar os membros do time, em um curto intervalo de tempo, com relação ao produto que está sendo desenvolvido.
 
-A aplicação detalhada da Lean Inception encontra-se no [Documento de Visão do Produto](https://fga-eps-mds.github.io/2022-2-PUMA-Doc/produto/doc-visao/).
+A aplicação detalhada da *Lean Inception* encontra-se no [Documento de Visão do Produto](https://fga-eps-mds.github.io/2022-2-PUMA-Doc/produto/doc-visao/).
+
+### Práticas Extreme Programming (XP)
+
+Ao longo do desenvolvimento do projeto, algumas práticas da metodologia ágil *Extreme Programming* (XP) serão adaptadas e utilizadas, dentre elas, Programação em Pares e Histórias de Usuário.
+
+A equipe também adotará os valores de *Feedback* e Comunicação.
+
+De acordo com o princípio da Comunicação, todos fazem parte da equipe e se comunicam frequentemente. Os membros devem trabalhar juntos em todas as etapas, desde os requisitos até o código, de forma a possibilitar a elaboração da melhor solução para o problema. Já o *Feedback* contínuo busca manter o foco da equipe e o desenvolvimento na direção certa sem atrasos.
+
+Durante o desenvolvimento do projeto, a equipe adotará as práticas e valores do *Extreme Programming* de acordo com as necessidades identificadas.
 
 
 ## Referências
@@ -64,4 +74,4 @@ Visão de Produto. **Projeto PUMA 2022-2**. Disponível [aqui](https://fga-eps-m
 | Data       | Versão | Modificação | Autor |
 | :--------- | :----- | :---------- | :---- |
 | 08/12/2022 | 0.1    | Abertura do documento.| Hérya    |
-| 10/12/2022 | 0.2    | Metodologia Scrum, Lean Inception. | Hérya    |
+| 10/12/2022 | 0.2    | Metodologia Scrum, Lean Inception, Extreme Programming. | Hérya    |
