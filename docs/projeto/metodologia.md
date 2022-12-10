@@ -40,6 +40,15 @@ O *Scrum Master* é responsável por garantir que o *Scrum Team* esteja aderindo
 Já os Desenvolvedores transformam o *Product Backlog* em incrementos de funcionalidades potencialmente entregáveis a cada *Sprint*.
 
 
+### Lean Inception
+
+A Lean Inception, desenvolvida por Paulo Caroli, é uma técnica para o alinhamento de uma equipe com relação à construção de um MVP (Minimum Viable Product – ou Produto Mínimo Viável, em portugês). Esta técnica promove um workshop composto por 9 etapas que facilitam o entendimento das necessidades de um produto de sucesso.
+
+Neste projeto, a Lean Inception foi aplicada a fim de alinhar os membros do time, em um curto intervalo de tempo, com relação ao produto que está sendo desenvolvido.
+
+A aplicação detalhada da Lean Inception encontra-se no [Documento de Visão do Produto](https://fga-eps-mds.github.io/2022-2-PUMA-Doc/produto/doc-visao/).
+
+
 ## Referências
 
 Ken, SCHWABER; SUTHERLAND, Jeff. The Scrum Guide. **Scrum Guides**. Disponível [aqui](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
@@ -47,10 +56,12 @@ Ken, SCHWABER; SUTHERLAND, Jeff. The Scrum Guide. **Scrum Guides**. Disponível 
 
 The Rules of Extreme Programming. **Extreme Programming**. Disponível [aqui](http://www.extremeprogramming.org/rules.html). Acesso em: 10 dez. 2022.
 
+Visão de Produto. **Projeto PUMA 2022-2**. Disponível [aqui](https://fga-eps-mds.github.io/2022-2-PUMA-Doc/produto/doc-visao/). Acesso em: 10 dez. 2022.
+
 
 ## Histórico de Revisão
 
 | Data       | Versão | Modificação | Autor |
 | :--------- | :----- | :---------- | :---- |
 | 08/12/2022 | 0.1    | Abertura do documento.| Hérya    |
-| 10/12/2022 | 0.2    | Metodologia Scrum. | Hérya    |
+| 10/12/2022 | 0.2    | Metodologia Scrum, Lean Inception. | Hérya    |
