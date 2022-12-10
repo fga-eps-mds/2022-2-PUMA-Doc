@@ -73,7 +73,7 @@ Por fim, esta etapa detalha o MVP e suas funcionalidades. Os blocos essenciais p
 Esta atividade sintetiza tudo aquilo que foi produzido anteriormente durante a Lean Inception. A equipe pode enfim visualizar a proposta do MVP, que deve validar uma necessidade que abrange as personas e a hipótese levantada para o negócio.
 ##### Resultado
 ###### Canvas MVP 1
-![Canvas1](https://user-images.githubusercontent.com/54070461/205947058-42b44d29-044a-41ed-b8a2-f0332ea78527.png)
+![Canvas1](https://user-images.githubusercontent.com/54070461/206876548-8dd3d497-477f-415e-b4f8-16ce5a1f0beb.png)
 ###### Canvas MVP 2
 ![Canvas2](https://user-images.githubusercontent.com/54070461/205947124-e00c76d3-8c85-47a2-ac42-7db794a6ba9b.png)
 
@@ -87,3 +87,4 @@ ZANETTE, F. **MVP: como usar esse conceito para validar uma ideia e crescer com 
 | :--------- | :----- | :---------- | :---- |
 | 27/11/2022 | 0.1    | Criação, estruturação do documento e adição do conteúdo | Giovana |
 | 06/12/2022 | 0.2    | Adição dos resultados | Giovana |
+| 10/12/2022 | 0.3    | Atualização do Canvas MVP | Giovana |
