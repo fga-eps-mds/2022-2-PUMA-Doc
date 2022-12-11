@@ -11,11 +11,22 @@ Ao longo do semestre, o grupo terá diversas reuniões para desenvolver o projet
 Reuniões Fixas:
 
 * Reuniões com o cliente: quarta feira às 13h;
-* Reuniões EPS-MDS : sábado ás 10h;
+* Reuniões EPS-MDS : sábado às 10h;
 
 Conforme necessário, os membros de EPS e MDS devem agendar outras reuniões além destas para dar continuação ao desenvolvimento do projeto.
 
 ## Ferramentas
+
+Para facilitar a comunicação entre os membros, as seguintes ferramentas serão utilizadas:
+
+|        | Ferramenta | Descrição |
+| ------ | ---------- | --------- |
+|<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="discord" width="60"/> | **Discord**    | Comunicação rápida com o cliente e reuniões do time EPS-MDS |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="telegram" width="60"/> | **Telegram**   | Comunicação rápida entre o time EPS|
+| <img src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="whatsapp" width="70"/> | **WhatsApp**   | Comunicação rápida entre o time EPS-MDS|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" alt="MsTeams" width="60"/> | **Microsoft Teams**      | Reuniões com o cliente |
+|<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" width="70"/>  | **GitHub**    | Repositórios para documentos e código |
+
 
 ## Disponibilidade da Equipe
 
