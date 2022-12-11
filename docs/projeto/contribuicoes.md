@@ -22,3 +22,4 @@ Os pull requests devem estar obrigatoriamente vinculados a uma issue. Caso neces
 
 ## Branches
 
+Com exceção das branches principais (main, gh-pages, devel), cada branch deve estar vinculada a uma única issue. Após a conclusão da issue e fechamento do pull request associado, a branch referente pode ser excluída.
