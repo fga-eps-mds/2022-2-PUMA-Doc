@@ -53,18 +53,6 @@
 <div  style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 2em; gap: 0em">
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 1em; margin-right: 1em">
     <div style="width: 200px; height: 200px">
-      <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/u/88348513?v=4"/>
-    </div><br/>
-    <label><b>Gabriel Marques de Souza</b></label>
-  </div>
-  <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 1em; margin-right: 1em">
-    <div style="width: 200px; height: 200px">
-      <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/u/107002722?v=4"/>
-    </div><br/>
-    <label><b>Felipe Nunes</b></label>
-  </div>
-  <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 1em; margin-right: 1em">
-    <div style="width: 200px; height: 200px">
       <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/u/49414401?v=4"/>
     </div><br/>
     <label><b>Cainã Valença de Freitas</b></label>
