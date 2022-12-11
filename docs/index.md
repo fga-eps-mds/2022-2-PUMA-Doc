@@ -4,7 +4,7 @@
 
 ## Equipe
 
-<p  align="justify">A equipe é composta por 10 membros ao todo, sendo 6 de EPS e 4 de MDS, afim de documentar o projeto, além de resolver bugs e incrementar o projeto com novas funcionalidades.</p>
+<p  align="justify">A equipe é composta por 8 membros ao todo, sendo 6 de EPS e 2 de MDS, afim de documentar o projeto, além de resolver bugs e incrementar o projeto com novas funcionalidades.</p>
 
 ### Integrantes de EPS
 
