@@ -27,7 +27,29 @@ Segundo Almeida (2022) o melhor notebook, em termos decusto-benefício, para alu
 ### Internet
 A moperadora mais bem avaliada para a prestação de serviço de internet banda larga no Distrito Federal é a Oi (ANATEL, 2021). Portanto, considerando o plano mais barato da operadora, o custo mensal de internet por aluno seria de R$99,90 (OI, [s.d.]).
 
-## Planilha de custos
+## Custo total
+Considerando o número de alunos que compõem o projeto e a sua duração de quatro meses, temos o custo geral do projeto em:
+
+| Custo       | Valor    | Valor individual*   | Valor total (8 alunos) |
+| ----------- | -------- | ------------------- | ---------------------- |
+| Aluno       | R$989,25 | R$3957,60           | R$31660,80               |
+| Equipamento | R$3000,00| R$3000,00           | R$24000,00               |
+| Internet    | R$99,90  | R$399,60            | R$3196,80                |
+| **Total**   | R$4089,15| R$7357,20           | **R$58857,60**           |
+
+> \* Para o custo com aluno e com a internet, o valor é multiplicado pela duração do projeto. 
+
+### Planilha de Custos
+Os resultados da estimativa de custos para o projeto estão consolidados na seguinte planilha:
+
+<iframe width="700" height="260" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/180017659_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={4324a2b3-11df-4450-b666-66a4d888a4bc}&action=embedview&wdAllowInteractivity=False&Item=Tabela3&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
+
+#### Gráficos
+A partir dos dados contidos na planilha de custos, foram gerados dois gŕaficos. O primeiro apresenta, de forma visual, a proporção entre os três custos envolvidos no projeto (Aluno, Equipamento e Internet).
+<iframe width="485" height="400" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/180017659_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={4324a2b3-11df-4450-b666-66a4d888a4bc}&action=embedview&wdAllowInteractivity=False&Item=Gr%C3%A1fico%202&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
+
+Já o segundo apresenta a tendência dos três custos ao longo do desenvolvimento do projeto.
+<iframe width="700" height="450" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/180017659_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={4324a2b3-11df-4450-b666-66a4d888a4bc}&action=embedview&wdAllowInteractivity=False&Item=Gr%C3%A1fico%203&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
 
 ## Referências
 ALMEIDA, A. **5 Melhores Notebook para Programar em 2022**. Disponível em: <https://devporai.com.br/5-melhores-notebooks-para-programar/>. Acesso em: 10 dez. 2022. 
