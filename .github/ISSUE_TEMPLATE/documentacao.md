@@ -1,5 +1,5 @@
 ---
-name: "[Documentação] Nome do Documento"
+name: "Documentação"
 about: Issue para documentação
 title: ''
 labels: DOCS
