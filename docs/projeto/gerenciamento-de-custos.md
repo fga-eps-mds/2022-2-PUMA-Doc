@@ -8,16 +8,16 @@ Desta forma, este documento contém a estimativa dos custos para o projeto, cont
 ## Custos
 ### Aluno
 Segundo o Relatório de Gestão do ano de 2021 da Universidade de Brasília, um aluno custa, para a universidade, R$19790,00 (_Ca_) ao ano (DPO; DAI, 2021). Tendo em vista que usualmente são cursados 2 semestres ao ano, o custo semestral _Cs_ do aluno pode ser calculado como:  
-![CA](http://www.sciweavers.org/tex2img.php?eq=%20C_%7Bs%7D%20%3D%20%5Cfrac%7BC_%7Ba%7D%7D%7B2%7D%20%20%0A%3D%20%5Cfrac%7B19790.00%7D%7B2%7D%20%20%0A%3D%209895.00&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0){style="display: block; margin: 0 auto"}
+![Cs](https://latex.codecogs.com/svg.image?C_{s}&space;=&space;\frac{C_{a}}{Nsemestres}&space;=&space;\frac{19790.00}{2}&space;=&space;9895.00){style="display: block; margin: 0 auto"}
 
-Considerando um semestre onde são cursados 20 créditos (15 horas/aula) pelo aluno, o custo por hora (_Ch_) por aluno se dá por:
-![Ch](http://www.sciweavers.org/tex2img.php?eq=%20C_%7Bh%7D%20%3D%20%20%5Cfrac%7BC_%7Bs%7D%7D%7BNcreditos%20%2A%2015%7D%20%0A%3D%20%20%5Cfrac%7B9895.00%7D%7B300%7D%20%20%0A%3D%2032%2C98&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+Considerando um semestre onde são cursados 20 créditos (15 horas/aula) pelo aluno, o custo por hora (_Ch_) por aluno se dá por:  
+![Ch](https://latex.codecogs.com/svg.image?C_{h}&space;=&space;\frac{C_{s}}{Ncreditos&space;*&space;15}&space;=&space;\frac{9895.00}{20&space;*&space;15}&space;=&space;32.98){style="display: block; margin: 0 auto"}
 
-Por fim, uma vez que a disciplina de Engenharia de Produto de Software demanda 4 créditos do aluno e estipulando mais 4 créditos de dedicação extra-classe para o projeto, calcula-se o _Caluno_ por:
-![Caluno](http://www.sciweavers.org/tex2img.php?eq=%20C_%7Baluno%7D%20%3D%20%20C_%7Bh%7D%20%20%2A%20%2815%20%2A%20%284%20%2B%204%29%29%0A%3D%20%2032%2C98%20%2A%20120%0A%3D%203957%2C60&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0){style="display: block; margin: 0 auto"}
+Por fim, uma vez que a disciplina de Engenharia de Produto de Software demanda 4 créditos do aluno e estipulando mais 4 créditos de dedicação extra-classe para o projeto, calcula-se o _Caluno_ por:  
+![Caluno](https://latex.codecogs.com/svg.image?\inline&space;C_{aluno}&space;=&space;C_{h}&space;*&space;((Ncreditos)&space;*&space;15)&space;=&space;32.98&space;*&space;((4&space;&plus;&space;4)&space;*&space;15)&space;=&space;3957.60){style="display: block; margin: 0 auto"}
 
-Assim, consideramos o seguinte valor para o custo mensal* (_Calunomes_) do aluno: 
-![Calunomes](http://www.sciweavers.org/tex2img.php?eq=%20C_%7Balunomes%7D%20%3D%20%20%5Cfrac%7B%20C_%7Baluno%7D%7D%7BNmeses%7D%20%3D%20%20%5Cfrac%7B3957%2C60%7D%7B4%7D%20%3D%20989%2C25&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0){style="display: block; margin: 0 auto"}
+Assim, consideramos o seguinte valor para o custo mensal* (_Calunomes_) do aluno:  
+![Calunomes](https://latex.codecogs.com/svg.image?\inline&space;C_{alunomes}&space;=\frac{C_{aluno}}{Nmeses}&space;=&space;\frac{3957.60}{4}&space;=&space;989.40){style="display: block; margin: 0 auto"}
 
 > \* Considerando o período letivo do semestre 2022/2 da UnB (de 25/10/2022 à 18/02/2022) como 4 meses.  
 
