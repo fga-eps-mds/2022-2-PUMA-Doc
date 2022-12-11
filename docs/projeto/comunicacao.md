@@ -41,3 +41,7 @@ Figura 1 - Quadro de Disponibilidade dos membros
 </center>
 
 ## Histórico de Revisão
+
+| Data       | Versão | Modificação | Autor |
+| :--------- | :----- | :---------- | :---- |
+| 11/12/2022 | 0.1    | Abertura do documento.| Hérya    |
