@@ -11,7 +11,7 @@ Segundo o Relatório de Gestão do ano de 2021 da Universidade de Brasília, um 
 ![CA](http://www.sciweavers.org/tex2img.php?eq=%20C_%7Bs%7D%20%3D%20%5Cfrac%7BC_%7Ba%7D%7D%7B2%7D%20%20%0A%3D%20%5Cfrac%7B19790.00%7D%7B2%7D%20%20%0A%3D%209895.00&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0){style="display: block; margin: 0 auto"}
 
 Considerando um semestre onde são cursados 20 créditos (15 horas/aula) pelo aluno, o custo por hora (_Ch_) por aluno se dá por:
-![Ch](http://www.sciweavers.org/tex2img.php?eq=%20C_%7Bh%7D%20%3D%20%20%5Cfrac%7BC_%7Bs%7D%7D%7BNcreditos%20%2A%2015%7D%20%0A%3D%20%20%5Cfrac%7B9895.00%7D%7B300%7D%20%20%0A%3D%2032%2C98&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0){style="display: block; margin: 0 auto"}
+![Ch](http://www.sciweavers.org/tex2img.php?eq=%20C_%7Bh%7D%20%3D%20%20%5Cfrac%7BC_%7Bs%7D%7D%7BNcreditos%20%2A%2015%7D%20%0A%3D%20%20%5Cfrac%7B9895.00%7D%7B300%7D%20%20%0A%3D%2032%2C98&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 Por fim, uma vez que a disciplina de Engenharia de Produto de Software demanda 4 créditos do aluno e estipulando mais 4 créditos de dedicação extra-classe para o projeto, calcula-se o _Caluno_ por:
 ![Caluno](http://www.sciweavers.org/tex2img.php?eq=%20C_%7Baluno%7D%20%3D%20%20C_%7Bh%7D%20%20%2A%20%2815%20%2A%20%284%20%2B%204%29%29%0A%3D%20%2032%2C98%20%2A%20120%0A%3D%203957%2C60&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0){style="display: block; margin: 0 auto"}
