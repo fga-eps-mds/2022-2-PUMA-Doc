@@ -23,3 +23,5 @@ theme:
     - search.suggest
   language: pt
 repo_url: https://github.com/fga-eps-mds/2022-2-PUMA-Doc
+markdown_extensions:
+    - attr_list
