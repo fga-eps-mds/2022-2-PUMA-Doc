@@ -30,5 +30,14 @@ Para facilitar a comunicação entre os membros, as seguintes ferramentas serão
 
 ## Disponibilidade da Equipe
 
+### Quadro de Disponibilidade
+
+![Disponibilidade](../assets/disponibilidade.png)
+
+<center>
+<figcaption>
+Figura 1 - Quadro de Disponibilidade dos membros
+</figcaption>
+</center>
 
 ## Histórico de Revisão
