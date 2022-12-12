@@ -42,14 +42,14 @@ Considerando o número de alunos que compõem o projeto e a sua duração de qua
 ### Planilha de Custos
 Os resultados da estimativa de custos para o projeto estão consolidados na seguinte planilha:
 
-<iframe width="700" height="260" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/180017659_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={4324a2b3-11df-4450-b666-66a4d888a4bc}&action=embedview&wdAllowInteractivity=False&Item=Tabela3&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
+<iframe width="700" height="260" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/:x:/g/personal/180017659_aluno_unb_br/EbOiJEPfEVBEtmZmpNiIpLwB--tj5Lfh61CgYL-Izfn0lw&action=embedview&wdAllowInteractivity=False&Item=Tabela3&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
 
 #### Gráficos
 A partir dos dados contidos na planilha de custos, foram gerados dois gŕaficos. O primeiro apresenta, de forma visual, a proporção entre os três custos envolvidos no projeto (Aluno, Equipamento e Internet).
-<iframe width="485" height="400" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/180017659_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={4324a2b3-11df-4450-b666-66a4d888a4bc}&action=embedview&wdAllowInteractivity=False&Item=Gr%C3%A1fico%202&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
+<iframe width="485" height="400" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/:x:/g/personal/180017659_aluno_unb_br/EbOiJEPfEVBEtmZmpNiIpLwB--tj5Lfh61CgYL-Izfn0lw&action=embedview&wdAllowInteractivity=False&Item=Gr%C3%A1fico%202&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
 
 Já o segundo apresenta a tendência dos três custos ao longo do desenvolvimento do projeto.
-<iframe width="700" height="450" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/personal/180017659_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc={4324a2b3-11df-4450-b666-66a4d888a4bc}&action=embedview&wdAllowInteractivity=False&Item=Gr%C3%A1fico%203&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
+<iframe width="700" height="450" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/:x:/g/personal/180017659_aluno_unb_br/EbOiJEPfEVBEtmZmpNiIpLwB--tj5Lfh61CgYL-Izfn0lw&action=embedview&wdAllowInteractivity=False&Item=Gr%C3%A1fico%203&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
 
 ## Referências
 ALMEIDA, A. **5 Melhores Notebook para Programar em 2022**. Disponível em: <https://devporai.com.br/5-melhores-notebooks-para-programar/>. Acesso em: 10 dez. 2022. 
