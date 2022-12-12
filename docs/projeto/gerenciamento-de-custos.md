@@ -41,15 +41,14 @@ Considerando o número de alunos que compõem o projeto e a sua duração de qua
 
 ### Planilha de Custos
 Os resultados da estimativa de custos para o projeto estão consolidados na seguinte planilha:
-
-<iframe width="700" height="260" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/:x:/g/personal/180017659_aluno_unb_br/EbOiJEPfEVBEtmZmpNiIpLwB--tj5Lfh61CgYL-Izfn0lw&action=embedview&wdAllowInteractivity=False&Item=Tabela3&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
+<iframe width="700" height="260" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBItjCSbfyygmJBvkyJQzfwFctpCct7riL6uDt-GxIuDVy94bj2Rtd6zj-Zz8DIHBm3X1ky52df1WU/pubhtml?gid=1203830959&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 #### Gráficos
 A partir dos dados contidos na planilha de custos, foram gerados dois gŕaficos. O primeiro apresenta, de forma visual, a proporção entre os três custos envolvidos no projeto (Aluno, Equipamento e Internet).
-<iframe width="485" height="400" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/:x:/g/personal/180017659_aluno_unb_br/EbOiJEPfEVBEtmZmpNiIpLwB--tj5Lfh61CgYL-Izfn0lw&action=embedview&wdAllowInteractivity=False&Item=Gr%C3%A1fico%202&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
+<iframe width="480" height="303" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBItjCSbfyygmJBvkyJQzfwFctpCct7riL6uDt-GxIuDVy94bj2Rtd6zj-Zz8DIHBm3X1ky52df1WU/pubchart?oid=1370162114&amp;format=interactive"></iframe>
 
 Já o segundo apresenta a tendência dos três custos ao longo do desenvolvimento do projeto.
-<iframe width="700" height="450" frameborder="0" scrolling="no" src="https://unbbr-my.sharepoint.com/:x:/g/personal/180017659_aluno_unb_br/EbOiJEPfEVBEtmZmpNiIpLwB--tj5Lfh61CgYL-Izfn0lw&action=embedview&wdAllowInteractivity=False&Item=Gr%C3%A1fico%203&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=true&edrtees6=false&resen=false"></iframe>
+<iframe width="746" height="450" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBItjCSbfyygmJBvkyJQzfwFctpCct7riL6uDt-GxIuDVy94bj2Rtd6zj-Zz8DIHBm3X1ky52df1WU/pubchart?oid=1523491987&amp;format=interactive"></iframe>
 
 ## Referências
 ALMEIDA, A. **5 Melhores Notebook para Programar em 2022**. Disponível em: <https://devporai.com.br/5-melhores-notebooks-para-programar/>. Acesso em: 10 dez. 2022. 
