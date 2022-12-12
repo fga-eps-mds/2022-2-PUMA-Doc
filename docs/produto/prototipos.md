@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Um protótipo de alta fidelidade é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo apresenta maior semelhança com o design final em termos de detalhes e funcionalidade. Foi desenvolvido de acordo com a validação da prototipação de papel pelo cliente.
+Um protótipo de alta fidelidade é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo apresenta maior semelhança com o design final em termos de detalhes e funcionalidade. Foi desenvolvido de acordo com as funcionalidades definidas pelo cliente.
 
 ## Objetivo
 
@@ -66,7 +66,7 @@ Figura 5 - Página de confirmação de cadastro realizado
 | :--: | :----: | :---------: | :---: |
 | 02/12/2022 | 1.0 | Abertura do documento.| Ailamar Alves |
 | 06/12/2022 | 1.1 | Criação do protótipo | Alexia |
-| 10/12/2022 | 1.2 | Adição das imagens | Ailamar Alves |
+| 10/12/2022 | 1.2 | Adição das imagens e contexto do documento| Ailamar Alves |
 
 
 ## Referências
