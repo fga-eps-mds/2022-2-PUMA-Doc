@@ -15,7 +15,7 @@ Essa semana teve como objetivo:
 
 ### Tarefas
 
-**EPS**
+**EPS**  
 - Lean Inception (Jornada de usuário, sequenciador, canva);  
 - Plano de Comunicação (tecnologias, plano de contribuição, horários, conhecimento);  
 - EAP;  
@@ -24,7 +24,7 @@ Essa semana teve como objetivo:
 - Configurar o SONAR;  
 - Configurar Zenhub (backlog, roadmap...).  
 
-**MDS**
+**MDS**  
 - Clonar repositórios;  
 - Seguir tutorial para execução local;  
 - Estudar código existente;  
