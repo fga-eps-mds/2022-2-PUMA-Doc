@@ -74,7 +74,7 @@ Por fim, esta etapa detalha o MVP e suas funcionalidades. Os blocos essenciais p
 Esta atividade sintetiza tudo aquilo que foi produzido anteriormente durante a Lean Inception. A equipe pode enfim visualizar a proposta do MVP, que deve validar uma necessidade que abrange as personas e a hipótese levantada para o negócio.
 ##### Resultado
 ###### Canvas MVP
-![Canvas1]
+![Canvas1](https://raw.githubusercontent.com/fga-eps-mds/2022-2-PUMA-Doc/ae0beea7b0a60e1da8cbaa836532e0c214d1472f/docs/assets/VisaoDeProduto/Canvas1_Revisado.png)
 
 ## Referências Biblográficas
 CAROLI, P. **Lean Inception: como alinhar pessoas e construir o produto certo**. 1a. ed. São Paulo: Editora Caroli, 2018.
