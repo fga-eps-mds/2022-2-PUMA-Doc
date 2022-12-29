@@ -42,6 +42,7 @@ Nesta atividade, busca-se compreender os usuários do produto e seus objetivos a
 #### Jornadas do Usuário
 Esta etapa tem como objetivo traçar um perscurso de um usuário para o alcance de um objetivo específico. Na jornada, é descrito o contato de uma [persona](#personas) com o produto em questão, definindo a sua interação. Nesta atividade, várias jornadas podem ser encontradas e priorizadas, definindo o que estará presente no MVP.
 ##### Resultado
+Esta atividade foi elaborada pelos alunos do curso de Design que fazem parte do time PUMA. 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FUoMrW48HXi95MsQusizjuz%2FJornada-base-de-usu%25C3%25A1rios---PUMA-(Copy)%3Fnode-id%3D0%253A1%26t%3Da99Aye13ltRIcDsH-1" allowfullscreen></iframe>
 
 #### Brainstorming de Funcionalidades
@@ -72,10 +73,8 @@ Por fim, esta etapa detalha o MVP e suas funcionalidades. Os blocos essenciais p
 
 Esta atividade sintetiza tudo aquilo que foi produzido anteriormente durante a Lean Inception. A equipe pode enfim visualizar a proposta do MVP, que deve validar uma necessidade que abrange as personas e a hipótese levantada para o negócio.
 ##### Resultado
-###### Canvas MVP 1
-![Canvas1](https://user-images.githubusercontent.com/54070461/206876548-8dd3d497-477f-415e-b4f8-16ce5a1f0beb.png)
-###### Canvas MVP 2
-![Canvas2](https://user-images.githubusercontent.com/54070461/205947124-e00c76d3-8c85-47a2-ac42-7db794a6ba9b.png)
+###### Canvas MVP
+![Canvas1]
 
 ## Referências Biblográficas
 CAROLI, P. **Lean Inception: como alinhar pessoas e construir o produto certo**. 1a. ed. São Paulo: Editora Caroli, 2018.
@@ -88,3 +87,4 @@ ZANETTE, F. **MVP: como usar esse conceito para validar uma ideia e crescer com 
 | 27/11/2022 | 0.1    | Criação, estruturação do documento e adição do conteúdo | Giovana |
 | 06/12/2022 | 0.2    | Adição dos resultados | Giovana |
 | 10/12/2022 | 0.3    | Atualização do Canvas MVP | Giovana |
+| 28/12/2022 | 0.4    | Revisão de incoerencias no Canvas MVP | Giovana |
