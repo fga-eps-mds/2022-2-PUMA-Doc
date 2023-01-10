@@ -4,7 +4,7 @@
 
 ## Equipe
 
-<p  align="justify">A equipe é composta por uma parte de 6 estudantes da Engenharia de Produção responsáveis pelo desenvolvimento dos protótipos, testes funcionais, verificação da qualidade e planejamentos em geral do projeto. A outra parte é composta por 8 estudantes da Engenharia de Software a fim de contribuir na documentação, além de resolver bugs e incrementar o projeto com novas funcionalidades. A seguir são apresentados os estudantes da Engenharia de Software.</p>
+<p  align="justify">A equipe é composta pelos professores Everaldo Junior e Simone Borges como  <em>Product Owners</em>, seguida por uma parte de 6 estudantes da Engenharia de Produção responsáveis pelo desenvolvimento dos protótipos, testes funcionais, verificação da qualidade e planejamentos em geral do projeto. A outra parte é composta por 8 estudantes da Engenharia de Software a fim de contribuir na documentação, além de resolver bugs e incrementar o projeto com novas funcionalidades. A seguir são apresentados os estudantes da Engenharia de Software e suas respectivas disciplinas.</p>
 
 ### Integrantes de EPS
 
