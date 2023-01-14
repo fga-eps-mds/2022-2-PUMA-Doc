@@ -17,3 +17,4 @@ RAEBURN, Alicia. Estrutura analítica de projeto (EAP) para gestores: o que é e
 | Data       | Versão | Modificação | Autor |
 | :--------- | :----- | :---------- | :---- |
 | 21/12/2022 | 0.1    | Abertura do documento.| Marcelo |
+| 14/01/2023 | 0.2    | Atualização da EAP.| Ailamar, Hérya e Matheus |
