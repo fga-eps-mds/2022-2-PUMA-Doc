@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Data de Início: 01/12 à 07/11
+Data de Início: 01/12 à 07/12
 
 ### Objetivos
 Essa semana teve como objetivo:
