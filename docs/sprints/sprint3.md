@@ -1,4 +1,4 @@
-# Atividades - Sprint 2
+# Atividades - Sprint 3
 
 ## Visão Geral
 
