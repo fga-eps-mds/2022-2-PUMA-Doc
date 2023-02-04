@@ -1,10 +1,10 @@
 # Sobre
 
-<p  align="justify">O projeto de Plataforma Unificada de Metodologias Ativas (PUMA) de 2022.2 é uma continuação dos semestres passados, sendo desenvolvido pelas disciplinas de EPS e MDS. O PUMA é um projeto que tem por objetivo auxiliar os professores no gerenciamento das disciplinas da Engenharia de Produção da Universidade de Brasilia.</p>
+<p  align="justify">O projeto de Plataforma Unificada de Metodologias Ativas (PUMA) de 2022.2 é uma continuação dos semestres passados, sendo desenvolvido pelas disciplinas de EPS e MDS. O PUMA é um projeto que tem por objetivo auxiliar os professores no gerenciamento das disciplinas da Engenharia de Produção da Universidade de Brasília.</p>
 
 ## Equipe
 
-<p  align="justify">A equipe é composta por 8 membros ao todo, sendo 6 de EPS e 2 de MDS, afim de documentar o projeto, além de resolver bugs e incrementar o projeto com novas funcionalidades.</p>
+<p  align="justify">A equipe é composta pelos professores Everaldo Junior e Simone Borges como  <em>Product Owners</em>, seguida por uma parte de 6 estudantes da Engenharia de Produção responsáveis pelo desenvolvimento dos protótipos, testes funcionais, verificação da qualidade e planejamentos em geral do projeto. A outra parte é composta por 8 estudantes da Engenharia de Software a fim de contribuir na documentação, além de resolver bugs e incrementar o projeto com novas funcionalidades. A seguir são apresentados os estudantes da Engenharia de Software e suas respectivas disciplinas.</p>
 
 ### Integrantes de EPS
 

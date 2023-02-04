@@ -28,14 +28,21 @@ Segundo Almeida (2022) o melhor notebook, em termos decusto-benefício, para alu
 A moperadora mais bem avaliada para a prestação de serviço de internet banda larga no Distrito Federal é a Oi (ANATEL, 2021). Portanto, considerando o plano mais barato da operadora, o custo mensal de internet por aluno seria de R$99,90 (OI, [s.d.]).
 
 ## Custo total
-Considerando o número de alunos que compõem o projeto e a sua duração de quatro meses, temos o custo geral do projeto em:
+A equipe PUMA é composta por:
 
-| Custo       | Valor    | Valor individual*   | Valor total (8 alunos) |
-| ----------- | -------- | ------------------- | ---------------------- |
-| Aluno       | R$989,25 | R$3957,60           | R$31660,80               |
-| Equipamento | R$3000,00| R$3000,00           | R$24000,00               |
-| Internet    | R$99,90  | R$399,60            | R$3196,80                |
-| **Total**   | R$4089,15| R$7357,20           | **R$58857,60**           |
+* 6 alunos de EPS
+* 2 alunos de MDS
+* 2 alunos de Design
+* 5 alunos de PSP5
+
+totalizando 15 alunos. Desta forma, o custo total do projeto pode ser dado por:
+
+| Custo       | Valor por aluno   | Valor total |
+| ----------- | ------------------- | ---------------------- |
+| Aluno       | R$3957,60           | R$59364,80               |
+| Equipamento | R$3000,00           | R$45000,00               |
+| Internet    | R$399,60            | R$5994,00                |
+| **Total**   | R$7357,20           | **R$110358,80**           |
 
 > \* Para o custo com aluno e com a internet, o valor é multiplicado pela duração do projeto. 
 
@@ -44,18 +51,17 @@ Os resultados da estimativa de custos para o projeto estão consolidados na segu
 <iframe width="700" height="260" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBItjCSbfyygmJBvkyJQzfwFctpCct7riL6uDt-GxIuDVy94bj2Rtd6zj-Zz8DIHBm3X1ky52df1WU/pubhtml?gid=1203830959&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 #### Gráficos
-A partir dos dados contidos na planilha de custos, foram gerados dois gŕaficos. O primeiro apresenta, de forma visual, a proporção entre os três custos envolvidos no projeto (Aluno, Equipamento e Internet).
+A partir dos dados contidos na planilha de custos, foi gerado um gráfico que apresenta, de forma visual, a proporção entre os três custos envolvidos no projeto (Aluno, Equipamento e Internet).
 <iframe width="480" height="303" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBItjCSbfyygmJBvkyJQzfwFctpCct7riL6uDt-GxIuDVy94bj2Rtd6zj-Zz8DIHBm3X1ky52df1WU/pubchart?oid=1370162114&amp;format=interactive"></iframe>
 
-Já o segundo apresenta a tendência dos três custos ao longo do desenvolvimento do projeto.
-<iframe width="746" height="450" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBItjCSbfyygmJBvkyJQzfwFctpCct7riL6uDt-GxIuDVy94bj2Rtd6zj-Zz8DIHBm3X1ky52df1WU/pubchart?oid=1523491987&amp;format=interactive"></iframe>
+A planilha contendo os dados e o gráfico pode ser acessada atarvés deste [link](https://docs.google.com/spreadsheets/d/1L-Q61zGaFVJfEhF6Dn17tNjDnfhyPwpQOVxVY3BiEbc/edit?usp=sharing).
 
 ## Referências
 ALMEIDA, A. **5 Melhores Notebook para Programar em 2022**. Disponível em: <https://devporai.com.br/5-melhores-notebooks-para-programar/>. Acesso em: 10 dez. 2022. 
 
 ANATEL. **Pesquisa de Satisfação e Qualidade**. Disponível em: <https://informacoes.anatel.gov.br/paineis/consumidor/pesquisa-de-satisfacao>. Acesso em: 10 dez. 2022. 
 
-DPO; DAI. **Relatório de Gestão 2021: Apresentação e análise dos indicadores de desempenho conforme deliberações do Tribunal de Contas da União**. Brasília: [s.n.]. Disponível em: <https://www.dpo.unb.br/images/dpl/2021/Indicadores_de_Desempenho_TCU_2021.pdf>. Acesso em: 10 dez. 2022.
+DPO; DAI. **Relatório de Gestão 2021: Apresentação e análise dos indicadores de desempenho conforme deliberações do Tribunal de Contas da União**, Quadro 2. Brasília: [s.n.]. Disponível em: <https://www.dpo.unb.br/images/dpl/2021/Indicadores_de_Desempenho_TCU_2021.pdf>. Acesso em: 10 dez. 2022.
 
 OI. **Internet fibra ótica: planos de internet banda larga**. Disponível em: <https://www.oi.com.br/internet>. Acesso em: 10 dez. 2022. 
 
@@ -66,3 +72,4 @@ PROJECT BUILDER; IBEC. **Gerenciando Custos em um Projeto**. [s.l: s.n.].
 | :--------- | :----- | :---------- | :---- |
 | 10/12/2022 | 0.1    | Criação, estruturação do documento | Giovana |
 | 11/12/2022 | 0.2    | Adição de conteúdo ao documento | Giovana |
+| 28/12/2022 | 0.3    | Correção de inconsistências no documento | Giovana |
