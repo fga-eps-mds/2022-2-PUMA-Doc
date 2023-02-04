@@ -177,22 +177,22 @@
 
 <p  align="justify">Ao final da etapa de desenvolvimento da aplicação os riscos já foram identificados, monitorados e tratados (ou não) de forma completa. Tendo em mãos toda a evolução ou involução desses riscos, é possível estabelecer algumas relações entre o período em que o projeto se encontra e o comportamento dos riscos. Com o principal objetivo de ilustrar de forma clara e simplificada o desdobramento ao longo das sprints, foi desenvolvida uma tabela das prioridades atribuidas a cada risco em cada sprint.</p>
 
-|     | Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 | Sprint 5 | Sprint 6 | Sprint 7 | Sprint 8 | Sprint 9 | Sprint 10 | Sprint 11 | Sprint 12 |
-| :-: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :-------: | :-------: | :-------: |
-| R01 |   20    |   15    |   15   |        |        |        |        |
-| R02 |   10    |    5    |    4   |        |        |        |        |
-| R03 |    3    |    5    |    3   |        |        |        |        |
-| R04 |   20    |   18    |   10   |        |        |        |        |
-| R05 |   12    |   10    |   11   |        |        |        |        |
-| R06 |    3    |    3    |    3   |        |        |        |        |
-| R07 |    3    |    8    |    8   |        |        |        |        |
-| R08 |    3    |    3    |    3   |        |        |        |        |
-| R09 |    5    |    5    |    5   |        |        |        |        |
-| R10 |    1    |    4    |    6   |        |        |        |        |
-| R11 |    5    |    5    |    5   |        |        |        |        |
-| R12 |    8    |    8    |    6   |        |        |        |        |
-| R13 |    1    |    1    |    1   |        |        |        |        |
-| R14 |    1    |    1    |    1   |        |        |        |        |
+|     | Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 | Sprint 5 | Sprint 6 | Sprint 7 |
+| :-: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
+| R01 |   20    |   15    |   15   |  10      |   9     |   9     |    12    |
+| R02 |   10    |    5    |    4   |   4     |   1     |    1    |    1    |
+| R03 |    3    |    5    |    3   |   4     |   5     |    5    |    3    |
+| R04 |   20    |   18    |   10   |    3    |    2    |    3    |    2    |
+| R05 |   12    |   10    |   11   |    9    |    9    |    14    |    15    |
+| R06 |    3    |    3    |    3   |   3     |   3     |    3    |    3    |
+| R07 |    3    |    8    |    8   |   2     |    2    |    10    |    14    |
+| R08 |    3    |    3    |    3   |    3    |    2    |    2    |    2    |
+| R09 |    5    |    5    |    5   |    4    |    3    |    3    |    3    |
+| R10 |    1    |    4    |    6   |   9     |    4    |    2    |   2     |
+| R11 |    5    |    5    |    5   |    10    |    6    |    1    |   1     |
+| R12 |    8    |    8    |    6   |    6    |    7    |    8    |   4     |
+| R13 |    10    |    1    |    8   |    1    |    1    |    1    |    1    |
+| R14 |    1    |    1    |    1   |    1    |    1    |   1     |   1     |
 
 ### 6. Referências
 
@@ -203,3 +203,4 @@
 | :--------- | :----- | :---------- | :---- |
 | 10/12/2022 | 0.1    | Criação, estruturação do documento e adição do conteúdo | Nilo Mendonça |
 | 01/01/2023 | 0.2    | Atualização dos comportamentos | Nilo Mendonça |
+| 04/02/2023 | 0.3    | Atualização dos comportamentos | Nilo Mendonça |
