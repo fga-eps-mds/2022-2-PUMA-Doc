@@ -42,17 +42,17 @@ Estes cálculos são obtidos através dos parâmetros para EVM, dentro do projet
 - RPC – Pontos Concluídos por Release
 - BAC – Orçamento estimado por Release
 - AC – Custo até o momento
--PV – Valor Planejado por Release
--EV – Valor Agregado por Release
+- PV – Valor Planejado por Release
+- EV – Valor Agregado por Release
 
 **Parâmetros das Sprints**
 - PP - Pontos Planejados por Sprint
 - PC - Pontos Concluídos por Sprint
--PI - Pontos Incompletos por Sprint
+- PI - Pontos Incompletos por Sprint
 - AP - Pontos Adicionados por Sprint
 - SC - Orçamento gasto por Sprint
 - TSC - Total de Sprints Concluídas
- -TSE - Total de Sprints Estimadas
+- TSE - Total de Sprints Estimadas
 
 Os resultados da estimativa de custos para o projeto estão consolidados na planilha:
 <iframe width="700" height="260" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1JX57gR8_53dbSimfpn0yJvfqQPuwrfU01bsiqr05fYs/edit?usp=sharing&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
