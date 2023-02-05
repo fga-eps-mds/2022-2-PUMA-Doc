@@ -54,7 +54,17 @@ Os resultados da estimativa de custos para o projeto estão consolidados na segu
 A partir dos dados contidos na planilha de custos, foi gerado um gráfico que apresenta, de forma visual, a proporção entre os três custos envolvidos no projeto (Aluno, Equipamento e Internet).
 <iframe width="480" height="303" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBItjCSbfyygmJBvkyJQzfwFctpCct7riL6uDt-GxIuDVy94bj2Rtd6zj-Zz8DIHBm3X1ky52df1WU/pubchart?oid=1370162114&amp;format=interactive"></iframe>
 
-A planilha contendo os dados e o gráfico pode ser acessada atarvés deste [link](https://docs.google.com/spreadsheets/d/1L-Q61zGaFVJfEhF6Dn17tNjDnfhyPwpQOVxVY3BiEbc/edit?usp=sharing).
+A planilha contendo os dados e o gráfico pode ser acessada através deste [link](https://docs.google.com/spreadsheets/d/1L-Q61zGaFVJfEhF6Dn17tNjDnfhyPwpQOVxVY3BiEbc/edit?usp=sharing).
+
+## Atualizações
+Ao longo da execução do projeto, a organização de datas sofreu alterações e, consequentemente, o gerenciamento de custos também. Devido problemas de gerenciamento, as sprints do projeto PUMA iniciaram somente no dia 14/12/2022 e o MVP, que tinha previsão de entrega para o dia 24/01/2023, foi adiado em uma semana, para 31/01/2022. Além destes fatores, um membro de EPS comunicou sua saída do time no dia 20/01/2023. Desta forma, estas mudanças estão expressas na seguinte planilha:
+
+<iframe width="700" height="260" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBItjCSbfyygmJBvkyJQzfwFctpCct7riL6uDt-GxIuDVy94bj2Rtd6zj-Zz8DIHBm3X1ky52df1WU/pubhtml?gid=1241751646&amp;single=true&amp;widget=true&amp;headers=false"></iframe>  
+
+
+Neste contexto, para a finalização do plano de gerenciamento de custos do projeto, consolidou-se a proporção de custo de cada sprint no seguinte gráfico:
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBItjCSbfyygmJBvkyJQzfwFctpCct7riL6uDt-GxIuDVy94bj2Rtd6zj-Zz8DIHBm3X1ky52df1WU/pubchart?oid=2065408870&amp;format=interactive"></iframe>
 
 ## Referências
 ALMEIDA, A. **5 Melhores Notebook para Programar em 2022**. Disponível em: <https://devporai.com.br/5-melhores-notebooks-para-programar/>. Acesso em: 10 dez. 2022. 
