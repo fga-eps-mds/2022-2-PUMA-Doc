@@ -10,30 +10,40 @@ Cada membro deve se auto avaliar e preencher o quadro de acordo com a seguinte p
 
 <center>
 <figcaption>
-Figura 1 - Legenda
+Figura 1 - Legenda.
 </figcaption>
 </center>
 
 <br/>
 
-## Quadros
+## Evolução
 
-<img src="../../assets/knowledgeBoard.png"/>
+![Legenda](../assets/conhecimento-inicio.JPG)
 
 <center>
 <figcaption>
-Figura 2 - Quadro de conhecimento Semana 1
+Figura 2 - Quadro de conhecimento inicio do semestre.
 </figcaption>
 </center>
 
 <br/>
 
 
-![Legenda](../assets/conhecimento-atual.JPG)
+![Legenda](../assets/conhecimento-meio.JPG)
 
 <center>
 <figcaption>
-Figura 3 - Quadro de conhecimento Semana 5
+Figura 3 - Quadro de conhecimento Release 1.
+</figcaption>
+</center>
+
+<br/>
+
+![Legenda](../assets/conhecimento-fim.JPG)
+
+<center>
+<figcaption>
+Figura 4 - Quadro de conhecimento Release Final.
 </figcaption>
 </center>
 
@@ -46,3 +56,4 @@ Figura 3 - Quadro de conhecimento Semana 5
 | :--------- | :----- | :---------- | :---- |
 | 25/11/2022 | 0.1    | Criação, estruturação do documento e adição do conteúdo | Nilo Mendonça |
 | 11/12/2022 | 0.2    | Adição da evolução de aprendizagem dos integrantes | Ailamar Alves |
+| 04/02/2023 | 0.3    | Adição da aprendizagem dos integrantes ao final do semestre | Ailamar Alves |
