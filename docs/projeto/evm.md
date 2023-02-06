@@ -55,7 +55,11 @@ Estes cálculos são obtidos através dos parâmetros para EVM, dentro do projet
 - TSE - Total de Sprints Estimadas
 
 Os resultados da estimativa de custos para o projeto estão consolidados na planilha:
-<iframe width="700" height="260" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1JX57gR8_53dbSimfpn0yJvfqQPuwrfU01bsiqr05fYs/edit?usp=sharing&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="700" height="500" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1JX57gR8_53dbSimfpn0yJvfqQPuwrfU01bsiqr05fYs/edit?usp=sharing&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<br/>
+
+<p  align="justify">Para visualizar a planilha completa <a href="[https://docs.google.com/spreadsheets/d/14L3V5m_9iXuynDwgmaPua71b8ALLXdMpLuKV1Orrgoc/edit#gid=0](https://docs.google.com/spreadsheets/d/1JX57gR8_53dbSimfpn0yJvfqQPuwrfU01bsiqr05fYs/edit?usp=sharing)">clique aqui</a>.</p>
 
 ## Referência
 
