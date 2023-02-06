@@ -166,6 +166,7 @@ A seguir, temos a visão de dados atualizada após a ultima entrega desenvolvida
 ![DER](../assets/DER.png)
 <center>
 <figcaption>
+
 [Figura 2: Diagrama Entidade-Relacionamento](../assets/DER.png)
 </figcaption>
 </center>
@@ -175,6 +176,7 @@ A seguir, temos a visão de dados atualizada após a ultima entrega desenvolvida
 ![DLD](../assets/DLD.png)
 <center>
 <figcaption>
+
 [Figura 3: Diagrama Lógico de Dados](../assets/DLD.png)
 </figcaption>
 </center>
