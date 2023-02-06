@@ -21,7 +21,7 @@ No desenvolvimento do diagrama foram utilizadas informações sobre o projeto co
 
 Estes cálculos são obtidos através dos parâmetros para EVM, dentro do projeto e de suas releases, e cada release possui dados das sprints. O detalhamento dos cálculos está explicado abaixo.
 
-**Parâmetros EVM**
+**Parâmetros EVM**  
 - BAC – Orçamento estimado para a Release, detalhado na tabela de custos  
 - AC = EV / BAC – Custo até o momento  
 - PV = BAC * (TSC / TSE) – Valor Planejado  
@@ -31,13 +31,13 @@ Estes cálculos são obtidos através dos parâmetros para EVM, dentro do projet
 - SPI = EV / PV – Índice de Desempenho de Prazo  
 - SPV = EV - PV – Variação de Desempenho de Prazo  
 
-**Parâmetros Gerais do Projeto**
+**Parâmetros Gerais do Projeto**  
 - CPI – Índice de Desempenho de Custos  
 - SPI – Índice de Desempenho de Prazo  
 - CPV – Variação de Desempenho de Custo  
 - SPV – Variação de Desempenho de Prazo  
  
-**Parâmetros das Releases**
+**Parâmetros das Releases**  
 - PRP – Pontos Planejados por Release  
 - RPC – Pontos Concluídos por Release  
 - BAC – Orçamento estimado por Release  
@@ -45,7 +45,7 @@ Estes cálculos são obtidos através dos parâmetros para EVM, dentro do projet
 - PV – Valor Planejado por Release  
 - EV – Valor Agregado por Release  
 
-**Parâmetros das Sprints**
+**Parâmetros das Sprints**  
 - PP - Pontos Planejados por Sprint  
 - PC - Pontos Concluídos por Sprint  
 - PI - Pontos Incompletos por Sprint  
