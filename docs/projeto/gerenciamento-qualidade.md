@@ -43,6 +43,9 @@ Tabela 1 - Características e Subcaracterísticas do Modelo de Qualidade Interna
 
 </center>
 
+### Qualidade Em Uso
+
+De acordo com a norma NBR ISO/IEC 9126-1, os atributos de qualidade em uso são categorizados em quatro características: eficácia, produtividade, segurança e satisfação.
 
 ## Referências
 
