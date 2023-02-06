@@ -94,7 +94,127 @@ O Docker Compose é uma ferramenta para definir e executar aplicativos Docker de
 
 ## Visão de Dados
 
-A atual modelagem dos dados  é uma continuação das modelagens elaboradas nos [semestres anteriores](https://fga-eps-mds.github.io/2022-1-PUMA-Doc/produto/doc_arquitetura/) e poderá sofrer alterações ao longo do atual desenvolvimento.
+A atual modelagem dos dados é uma continuação das modelagens elaboradas nos [semestres anteriores](https://fga-eps-mds.github.io/2022-1-PUMA-Doc/produto/doc_arquitetura/) e poderá sofrer alterações ao longo do atual desenvolvimento.
+
+A seguir, temos a visão de dados atualizada após a ultima entrega desenvolvida com todas as entidades, relacionamentos e tabelas para o projeto.
+
+#### Modelo Entidade-Relacionamento
+
+##### Entidades
+
+&emsp;&emsp;COMMON_USER <br>
+&emsp;&emsp;&emsp;&emsp;STUDENT <br>
+&emsp;&emsp;&emsp;&emsp;PROFESSOR <br>
+&emsp;&emsp;&emsp;&emsp;JURIDICAL_AGENT <br>
+&emsp;&emsp;&emsp;&emsp;PHYSICAL_AGENT <br>
+&emsp;&emsp;USER_TYPE <br>
+&emsp;&emsp;PROJECT <br>
+&emsp;&emsp;SUBJECT <br>
+&emsp;&emsp;CLASS <br>
+&emsp;&emsp;FILE <br>
+&emsp;&emsp;SUBAREA <br>
+&emsp;&emsp;KNOWLEDGE_AREA <br>
+&emsp;&emsp;POST <br>
+
+##### Atributos
+
+&emsp;&emsp;COMMON_USER (**userId**, fullName, email, passwordHash, phoneNumber, isAdmin) <br>
+&emsp;&emsp;STUDENT (regNumber, **userId**, softSkills) <br>
+&emsp;&emsp;PROFESSOR (regNumber, **userId**) <br>
+&emsp;&emsp;JURIDICAL_AGENT (**userId**, cnpj, cep, companyName, socialReason) <br>
+&emsp;&emsp;PHYSICAL_AGENT (**userId**, cpf) <br>
+&emsp;&emsp;USER_TYPE (**userTypeId**, typeName, description) <br>
+&emsp;&emsp;PROJECT (**projectId**, name, description (problem, expectedResult, knowledgeArea)) <br>
+&emsp;&emsp;SUBAREA (**subAreaId**, description) <br>
+&emsp;&emsp;SUBJECT (**subjectId**, name, courseSyllabus) <br>
+&emsp;&emsp;CLASS (**classId**, subjectTerm, code, regNumber, subjectId) <br>
+&emsp;&emsp;FILE (**fileId**, projectId, filename, byteContent) <br>
+&emsp;&emsp;POST (**postId**, title, hypertext, type, createdAt, author, thumbnail, deleted) <br>
+
+##### Relacionamentos
+
+&emsp;&emsp;COMMON_USER - submits - PROJECT <br>
+&emsp;&emsp;&emsp;&emsp;Um usuário submete um ou mais projetos e um projeto é proposto por apenas um usuário. <br>
+&emsp;&emsp;&emsp;&emsp;Cardinalidade: 1:N. <br>
+<br>
+&emsp;&emsp;STUDENT - participates - CLASS <br>
+&emsp;&emsp;&emsp;&emsp;Um estudante participa de uma ou mais turmas e uma turma é participada por um ou mais alunos. <br>
+&emsp;&emsp;&emsp;&emsp;Cardinalidade: N:M <br>
+<br>
+&emsp;&emsp;STUDENT - executes - PROJECT <br>
+&emsp;&emsp;&emsp;&emsp;Um estudante executa um ou mais projetos e um projeto é executado por um ou mais alunos. <br>
+&emsp;&emsp;&emsp;&emsp;Cardinalidade: N:M <br>
+<br>
+&emsp;&emsp;PROFESSOR - lectures - SUBJECT <br>
+&emsp;&emsp;&emsp;&emsp;Um professor pode lecionar várias disciplinas e uma disciplina pode ser lecionada por vários professores. <br>
+&emsp;&emsp;&emsp;&emsp;Cardinalidade: N:M. <br>
+<br>
+&emsp;&emsp;PROJECT - has - FILE <br>
+&emsp;&emsp;&emsp;&emsp;Um projeto pode possuir vários arquivos e um arquivo pertence a somente um projeto. <br>
+&emsp;&emsp;&emsp;&emsp;Cardinalidade: 1:N. <br>
+<br>
+&emsp;&emsp;SUBAREA - identifies - SUBJECT <br>
+&emsp;&emsp;&emsp;&emsp;Uma sub-área pode identificar várias disciplinas e uma disciplina é identificada por uma ou mais sub-áreas. <br>
+&emsp;&emsp;&emsp;&emsp;Cardinalidade: N:M. <br>
+<br>
+&emsp;&emsp;KNOWLEDGE_AREA - contains - SUBAREA <br>
+&emsp;&emsp;&emsp;&emsp;Uma área do conhecimento pode conter várias subáreas e uma subárea é contida por somente uma área do conhecimento. <br>
+&emsp;&emsp;&emsp;&emsp;Cardinalidade: N:M. <br>
+
+#### Diagrama Entidade-Relacionamento
+
+![DER](../assets/DER.png)
+<center>
+<figcaption>
+
+[Figura 2: Diagrama Entidade-Relacionamento](../assets/DER.png)
+</figcaption>
+</center>
+
+#### Diagrama Lógico de Dados
+
+![DLD](../assets/DLD.png)
+<center>
+<figcaption>
+
+[Figura 3: Diagrama Lógico de Dados](../assets/DLD.png)
+</figcaption>
+</center>
+
+Esses diagramas apresentam o estado atualizado dos dados, onde foi evidenciada a entidade POST e acrecentado o USER_TYPE para generalizar os tipos de perfis de usuário. Todavia, esse processo de generalização dos perfis de usuário vão impactar diretamente todos os relacionamentos que as especializações de usuário fazem. Por esse motivo, o USER_TYPE não foi relacionado ao COMMON_USER. O outra entidade que precisa ser revisada a para se relacionar com as outras é o POST que já estava implementada.
+
+#### Dicionario de Dados
+
+##### PROJECT
+| Sigla | Tipo | Descrição |
+| ----- | ---- | --------- |
+| SB    | ENUM | Utilizado quando a proposta é submetida.                                           |
+| RL    | ENUM | Utilizado quando professor/administrador realoca a proposta para outra disciplina. |
+| AL    | ENUM | Utilizado quando a proposta não possui disciplina alocada (a disciplina adequada para a proposta não é conhecida pelo professor responsável). |
+| AC    | ENUM | Utilizado quando a proposta for aceita por um professor/administrador, porém ainda não incluída a nenhum semestre.|
+| RC    | ENUM | Utilizado quando a proposta for recusada por um professor/administrador.           |
+| IC    | ENUM | Utilizado quando a proposta for incluída para o semestre de alguma disciplina.     |
+| EX    | ENUM | Utilizado quando o(s) time(s) designado(s) inicia(m) o desenvolvimento do projeto. |
+| EC    | ENUM | Utilizado quando o desenvolvimento do projeto for concluído.                       |
+
+
+#### SEMESTER
+
+| Sigla | Tipo | Descrição                                |
+| ----- | ---- | ---------------------------------------- |
+| AD    | ENUM | Para os semestres que estão em andamento. |
+| CD    | ENUM | Para os semestres concluídos.            |
+
+
+#### POST
+
+| Sigla | Tipo | Descrição                           |
+| ----- | ---- | ----------------------------------- |
+| ED    | ENUM | Para publicação de editais.         |
+| NT    | ENUM | Para publicação de notícias.        |
+| DP    | ENUM | Para divulgar os melhores projetos. |
+
+
 
 ## Referências
 
@@ -115,3 +235,4 @@ Introduction. **Vue.js Guide**. Disponível [aqui](https://vuejs.org/guide/intro
 | 30/11/2022 | 0.1    | Criação, estruturação do documento e introdução. | Hérya    |
 | 05/12/2022 | 0.2    | Adição de visão geral, definições, serviços e referências. | Hérya  |
 | 06/12/2022 | 0.3    | Adição de diagrama de arquitetura. | Hérya  |
+| 06/02/2023 | 1.0    | Adição da visão de dados atualizada. | Matheus  |
