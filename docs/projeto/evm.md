@@ -59,7 +59,7 @@ Os resultados da estimativa de custos para o projeto estão consolidados na plan
 
 <br/>
 
-<p  align="justify">Para visualizar a planilha completa <a href="[https://docs.google.com/spreadsheets/d/14L3V5m_9iXuynDwgmaPua71b8ALLXdMpLuKV1Orrgoc/edit#gid=0](https://docs.google.com/spreadsheets/d/1JX57gR8_53dbSimfpn0yJvfqQPuwrfU01bsiqr05fYs/edit?usp=sharing)">clique aqui</a>.</p>
+<p  align="justify">Para visualizar a planilha completa <a href="https://docs.google.com/spreadsheets/d/1JX57gR8_53dbSimfpn0yJvfqQPuwrfU01bsiqr05fYs/edit?usp=sharing">clique aqui</a>.</p>
 
 ## Referência
 
